@@ -8,3 +8,5 @@ if [ $KUKU = "0" ]
         echo "NOT OK -> KUKU="$KUKU
         exit 1
     fi
+
+echo "KuKu which will never appear ... "
